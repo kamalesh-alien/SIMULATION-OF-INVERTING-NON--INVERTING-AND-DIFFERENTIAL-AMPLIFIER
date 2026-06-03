@@ -1,6 +1,6 @@
 # SIMULATION-OF-INVERTING-NON--INVERTING-AND-DIFFERENTIAL-AMPLIFIER
 ### AIM: 
-To Design and simulate a inverting, non- inverting and differential amplifiers using LT-Spice.
+To Design and simulate a inverting, non- inverting and differential amplifiers using LT-Spice
 ### SOFTWARE REQUIRED:
 LT-Spice PROCEDURE:
 ### PROCEDURE:
